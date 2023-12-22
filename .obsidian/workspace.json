@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "1b69323c776e3f53",
+    "type": "split",
+    "children": [
+      {
+        "id": "001ff096d57e48b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84f66d2bcbcfabde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Solutions/Exams/231023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a3cbe43676f936d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "362eb462dd326ab4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e92305caa3772cbf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b3536be7e8fc8c2b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4c32d3f82bdd132a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6e1d8b6a34a2f782",
+    "type": "split",
+    "children": [
+      {
+        "id": "f234a0ad229d9e53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e994cf19d73533cf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Solutions/Exams/231023.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7403bd7129b42326",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Solutions/Exams/231023.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5fec99b81b11f216",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8fb66c78111d1070",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Solutions/Exams/231023.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "84f66d2bcbcfabde",
+  "lastOpenFiles": [
+    "Solutions/Codeforces/CF1904E.md",
+    "Solutions/AtCoder/ABC324F.md",
+    "Essays/bruh.md",
+    "Essays/CSPS.md",
+    "Notes/线段树？.md",
+    "Solutions/Codeforces/CF1881F.md",
+    "Solutions/Codeforces/CF1891F.md"
+  ]
+}
